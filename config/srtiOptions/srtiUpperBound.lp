@@ -1,0 +1,1 @@
+:- #count{A2 : arank(A1,A2,_)} > m, A1=1..n. % there are at most m agents in a preference list.

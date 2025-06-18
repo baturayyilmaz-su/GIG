@@ -1,0 +1,1 @@
+:- #count{A2 : arank(A1,A2,_)}!=n-1, agent(A1).
